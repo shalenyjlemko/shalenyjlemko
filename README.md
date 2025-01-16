@@ -1,6 +1,8 @@
 ## Hello, I'm Denys 👋
 **Master’s Student at Université Paris-Saclay**
+
 [LinkedIn](https://linkedin.com/in/DenysBuryi) | 📧 denis.o.buryi@gmail.com
+
 My skills lie on the intersection of Genomic data science and Machine learning. I'm interested in neuroscience and neurogenomics specifically. 
 
 ## Education 🎓
