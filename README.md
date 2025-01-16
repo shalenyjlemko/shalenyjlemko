@@ -25,7 +25,7 @@ My skills lie on the intersection of Genomic data science and Machine learning. 
 | **MicroScope**    | ![MicroScope](https://img.shields.io/badge/-MicroScope-4C8CBF?style=flat)                      |
 
 ### Packages
-|--------------------|------------------------------------------------------------------------------------------------|
+
 | **NumPy**         | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)                |
 | **pandas**        | ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)             |
 | **scikit-learn**  | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
