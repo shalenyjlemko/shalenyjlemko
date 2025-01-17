@@ -18,13 +18,12 @@ My skills lie on the intersection of Genomic data science and Machine learning. 
 ## Tools & Software 🛠️
 
 ### Tools
-| **Tools**        | **Icons**                                                                                       |
-|-------------------|------------------------------------------------------------------------------------------------|
-| **Anaconda**      | ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)       |
-| **VS Code**       | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
-| **Bioconductor**  | ![Bioconductor](https://img.shields.io/badge/-Bioconductor-3670A0?logo=r&logoColor=white)      |
-| **BioPython**     | ![BioPython](https://img.shields.io/badge/-BioPython-FF5733?logo=python&logoColor=white)       |
-| **MicroScope**    | ![MicroScope](https://img.shields.io/badge/-MicroScope-4C8CBF?style=flat)                      |
+
+ ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)       |
+ ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
+ ![Bioconductor](https://img.shields.io/badge/-Bioconductor-3670A0?logo=r&logoColor=white)      |
+ ![BioPython](https://img.shields.io/badge/-BioPython-FF5733?logo=python&logoColor=white)       |
+ ![MicroScope](https://img.shields.io/badge/-MicroScope-4C8CBF?style=flat)                      |
 
 ### Packages
 | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)                |
